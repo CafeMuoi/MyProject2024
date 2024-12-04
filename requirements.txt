@@ -27,7 +27,6 @@ streamlit-option-menu==0.3.2
 pandas-profiling==3.2.0
 openpyxl==3.1.2
 numerize==0.12
-numpy==1.23.5
 Markdown==3.4.3
 markdown-it-py==2.2.0
 markdownlit==0.0.7

@@ -3,7 +3,7 @@ markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 matplotlib==3.7.1
 numerize==0.12
-numpy==1.23.5
+numpy==1.24.0
 oauthlib==3.2.2
 openpyxl==3.1.2
 opt-einsum==3.3.0

@@ -24,4 +24,3 @@ scikit-learn==1.2.2
 seaborn==0.12.2
 pandas-profiling==3.2.0
 markdownlit==0.0.7
-MarkupSafe==2.1.2

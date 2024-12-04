@@ -1,0 +1,20 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$KIXb3HOOpY8.p/e3aZ0QzO4Q2sJGqaqmLkHzFWXv3Y7HgOmQa7ZiC  # admin_password
+      role: admin
+    user:
+      email: user@example.com
+      name: Regular User
+      password: $2b$12$5ueTg1cR11FTg2d6EYmNZO/kfWtPMNuCynPujv7pM6I1ThPzqa5pa  # user_password
+      role: user
+cookie:
+  expiry_days: 30
+  key: some_random_key
+  name: some_random_name
+preauthorized:
+  emails:
+  - admin@example.com
+  - user@example.com
